@@ -1,0 +1,202 @@
+[
+  {
+    "NumeroPedido": "#1006",
+    "Fecha": "2025-08-01T15:50:36-04:00",
+    "EstadoPago": "pending",
+    "EstadoFulfillment": "unfulfilled",
+    "Total": 82111.73,
+    "MetodoPago": "",
+    "Cliente": {
+      "Nombre": "Cliente 3 Cliente 3",
+      "Email": "rricardod.cliente3@gmail.com",
+      "Telefono": "\u002B573001111113",
+      "Direccion": "Carrera 66 # 81-69",
+      "EsGenerico": false
+    },
+    "Productos": [
+      {
+        "SKU": "173",
+        "Nombre": "AGUILA ROJA  * 250GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 5000.00,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "540",
+        "Nombre": "ASUNTOL * 100GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 5600.00,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "250",
+        "Nombre": "SALTINAS MITITACO 106 GR * 48 UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 41259.63,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "410",
+        "Nombre": "SUPREMO BARRA VERDE * 100GR * 48UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 30252.10,
+        "Impuesto": 0.00
+      }
+    ]
+  },
+  {
+    "NumeroPedido": "#1005",
+    "Fecha": "2025-08-01T15:37:33-04:00",
+    "EstadoPago": "pending",
+    "EstadoFulfillment": "unfulfilled",
+    "Total": 127342.56,
+    "MetodoPago": "",
+    "Cliente": {
+      "Nombre": "Cliente 1 Cliente 1",
+      "Email": "rricardod.cliente1@gmail.com",
+      "Telefono": "\u002B573101111112",
+      "Direccion": "Carrera 66 #81-138",
+      "EsGenerico": false
+    },
+    "Productos": [
+      {
+        "SKU": "122",
+        "Nombre": "SALSA BBQ DEL CAMPO  * 1KL *10 UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 55830.83,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "250",
+        "Nombre": "SALTINAS MITITACO 106 GR * 48 UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 41259.63,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "410",
+        "Nombre": "SUPREMO BARRA VERDE * 100GR * 48UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 30252.10,
+        "Impuesto": 0.00
+      }
+    ]
+  },
+  {
+    "NumeroPedido": "#1004",
+    "Fecha": "2025-08-01T15:33:40-04:00",
+    "EstadoPago": "pending",
+    "EstadoFulfillment": "unfulfilled",
+    "Total": 568526.58,
+    "MetodoPago": "",
+    "Cliente": {
+      "Nombre": "Cliente 0 Cliente 0",
+      "Email": "rricardod.cliente0@gmail.com",
+      "Telefono": "\u002B573001111111",
+      "Direccion": "Carrera 66 # 81-114",
+      "EsGenerico": false
+    },
+    "Productos": [
+      {
+        "SKU": "320",
+        "Nombre": "MEDELLIN (8 A\u00D1OS) * 375ML * 20UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 568526.58,
+        "Impuesto": 0.00
+      }
+    ]
+  },
+  {
+    "NumeroPedido": "#1003",
+    "Fecha": "2025-08-01T15:29:20-04:00",
+    "EstadoPago": "pending",
+    "EstadoFulfillment": "unfulfilled",
+    "Total": 568526.58,
+    "MetodoPago": "",
+    "Cliente": {
+      "Nombre": "GEN\u00C9RICO",
+      "Email": "generico@correo.com",
+      "Telefono": "",
+      "Direccion": "",
+      "EsGenerico": true
+    },
+    "Productos": [
+      {
+        "SKU": "320",
+        "Nombre": "MEDELLIN (8 A\u00D1OS) * 375ML * 20UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 568526.58,
+        "Impuesto": 0.00
+      }
+    ]
+  },
+  {
+    "NumeroPedido": "#1002",
+    "Fecha": "2025-08-01T15:08:47-04:00",
+    "EstadoPago": "paid",
+    "EstadoFulfillment": "unfulfilled",
+    "Total": 38764.10,
+    "MetodoPago": "manual",
+    "Cliente": {
+      "Nombre": "GEN\u00C9RICO",
+      "Email": "generico@correo.com",
+      "Telefono": "",
+      "Direccion": "",
+      "EsGenerico": true
+    },
+    "Productos": [
+      {
+        "SKU": "540",
+        "Nombre": "ASUNTOL * 100GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 5600.00,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "410",
+        "Nombre": "SUPREMO BARRA VERDE * 100GR * 48UND",
+        "Cantidad": 1,
+        "PrecioUnitario": 30252.10,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "140",
+        "Nombre": "UVAS PASAS CONI * 200GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 2912.00,
+        "Impuesto": 0.00
+      }
+    ]
+  },
+  {
+    "NumeroPedido": "#1001",
+    "Fecha": "2025-08-01T15:07:42-04:00",
+    "EstadoPago": "paid",
+    "EstadoFulfillment": "fulfilled",
+    "Total": 10600.00,
+    "MetodoPago": "manual",
+    "Cliente": {
+      "Nombre": "GEN\u00C9RICO",
+      "Email": "generico@correo.com",
+      "Telefono": "",
+      "Direccion": "",
+      "EsGenerico": true
+    },
+    "Productos": [
+      {
+        "SKU": "173",
+        "Nombre": "AGUILA ROJA  * 250GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 5000.00,
+        "Impuesto": 0.00
+      },
+      {
+        "SKU": "540",
+        "Nombre": "ASUNTOL * 100GR",
+        "Cantidad": 1,
+        "PrecioUnitario": 5600.00,
+        "Impuesto": 0.00
+      }
+    ]
+  }
+]
