@@ -1,0 +1,2483 @@
+{
+    "orders": [
+        {
+            "id": 6312069464308,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6312069464308",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081721999604,
+            "checkout_token": "d849ea7061d331227febc209bfd52873",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "25GDN5LGL",
+            "confirmed": true,
+            "contact_email": "rricardod.cliente3@gmail.com",
+            "created_at": "2025-08-01T15:50:36-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "82111.73",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "82111.73",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "en",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "rricardod.cliente3@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "pending",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1006",
+            "note": null,
+            "note_attributes": [],
+            "number": 6,
+            "order_number": 1006,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/0634a1cb38e1509ef17acb5f6b3924c0\/authenticate?key=92dc3ebcc1c00400074268ef1b8de518",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [],
+            "phone": "+573001111113",
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:50:36-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "82111.73",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "0634a1cb38e1509ef17acb5f6b3924c0",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "82111.73",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "82111.73",
+            "total_price": "82111.73",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "82111.73",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:52:28-04:00",
+            "user_id": 99571138804,
+            "billing_address": {
+                "first_name": "Cliente 3",
+                "address1": "Carrera 66 # 81-69",
+                "phone": null,
+                "city": "Barranquilla",
+                "zip": "080001",
+                "province": "Atlántico",
+                "country": "Colombia",
+                "last_name": "Cliente 3",
+                "address2": "Casa",
+                "company": null,
+                "latitude": 11.012892,
+                "longitude": -74.80853499999999,
+                "name": "Cliente 3 Cliente 3",
+                "country_code": "CO",
+                "province_code": "ATL"
+            },
+            "customer": {
+                "id": 8338385895668,
+                "created_at": "2025-08-01T15:28:37-04:00",
+                "updated_at": "2025-08-01T15:50:37-04:00",
+                "first_name": "Cliente 3",
+                "last_name": "Cliente 3",
+                "state": "disabled",
+                "note": "",
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null,
+                    "consent_collected_from": "SHOPIFY"
+                },
+                "tags": "",
+                "email": "rricardod.cliente3@gmail.com",
+                "phone": "+573001111113",
+                "currency": "COP",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid:\/\/shopify\/Customer\/8338385895668",
+                "default_address": {
+                    "id": 9658296926452,
+                    "customer_id": 8338385895668,
+                    "first_name": "Cliente 3",
+                    "last_name": "Cliente 3",
+                    "company": "",
+                    "address1": "Carrera 66 # 81-69",
+                    "address2": "Casa",
+                    "city": "Barranquilla",
+                    "province": "Atlántico",
+                    "country": "Colombia",
+                    "zip": "080001",
+                    "phone": null,
+                    "name": "Cliente 3 Cliente 3",
+                    "province_code": "ATL",
+                    "country_code": "CO",
+                    "country_name": "Colombia",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286312861940,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286312861940",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "AGUILA ROJA  * 250GR",
+                    "price": "5000.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "5000.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "5000.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100478578932,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "173",
+                    "taxable": false,
+                    "title": "AGUILA ROJA  * 250GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733151731956,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286312894708,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286312894708",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "ASUNTOL * 100GR",
+                    "price": "5600.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100570132724,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "540",
+                    "taxable": false,
+                    "title": "ASUNTOL * 100GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733513425140,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286312927476,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286312927476",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SALTINAS MITITACO 106 GR * 48 UND",
+                    "price": "41259.63",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "41259.63",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "41259.63",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100478939380,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "250",
+                    "taxable": false,
+                    "title": "SALTINAS MITITACO 106 GR * 48 UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733152354548,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286312960244,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286312960244",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "price": "30252.10",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100479758580,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "410",
+                    "taxable": false,
+                    "title": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733155729652,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": {
+                "id": 37874237684,
+                "created_at": "2025-08-01T15:50:36-04:00",
+                "due_in_days": null,
+                "payment_schedules": [
+                    {
+                        "id": 34974990580,
+                        "amount": "82111.73",
+                        "currency": "COP",
+                        "issued_at": null,
+                        "due_at": "2025-08-21T15:50:28-04:00",
+                        "completed_at": null,
+                        "created_at": "2025-08-01T15:50:36-04:00",
+                        "updated_at": "2025-08-01T15:50:36-04:00"
+                    }
+                ],
+                "payment_terms_name": "Fixed",
+                "payment_terms_type": "fixed",
+                "updated_at": "2025-08-01T15:50:36-04:00"
+            },
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Cliente 3",
+                "address1": "Carrera 66 # 81-69",
+                "phone": null,
+                "city": "Barranquilla",
+                "zip": "080001",
+                "province": "Atlántico",
+                "country": "Colombia",
+                "last_name": "Cliente 3",
+                "address2": "Casa",
+                "company": null,
+                "latitude": 11.012892,
+                "longitude": -74.80853499999999,
+                "name": "Cliente 3 Cliente 3",
+                "country_code": "CO",
+                "province_code": "ATL"
+            },
+            "shipping_lines": []
+        },
+        {
+            "id": 6312024932596,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6312024932596",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081690509556,
+            "checkout_token": "aa4c40b1ff30c1db387b5879ad6956dd",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "F54KX8EZ8",
+            "confirmed": true,
+            "contact_email": "rricardod.cliente1@gmail.com",
+            "created_at": "2025-08-01T15:37:33-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "127342.56",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "127342.56",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "en",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "rricardod.cliente1@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "pending",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1005",
+            "note": null,
+            "note_attributes": [],
+            "number": 5,
+            "order_number": 1005,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/3849277e7f606b2266ef0dd4e25c1f4d\/authenticate?key=ac984bce97f35599caf5b6f4a3dbbe55",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [],
+            "phone": "+573101111112",
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:37:32-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "127342.56",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "3849277e7f606b2266ef0dd4e25c1f4d",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "127342.56",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "127342.56",
+            "total_price": "127342.56",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "127342.56",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:48:01-04:00",
+            "user_id": 99571138804,
+            "billing_address": {
+                "first_name": "Cliente 1",
+                "address1": "",
+                "phone": null,
+                "city": "",
+                "zip": null,
+                "province": null,
+                "country": "Colombia",
+                "last_name": "Cliente 1",
+                "address2": null,
+                "company": null,
+                "latitude": null,
+                "longitude": null,
+                "name": "Cliente 1 Cliente 1",
+                "country_code": "CO",
+                "province_code": null
+            },
+            "customer": {
+                "id": 8338384716020,
+                "created_at": "2025-08-01T15:27:36-04:00",
+                "updated_at": "2025-08-01T15:44:17-04:00",
+                "first_name": "Cliente 1",
+                "last_name": "Cliente 1",
+                "state": "disabled",
+                "note": "",
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null,
+                    "consent_collected_from": "SHOPIFY"
+                },
+                "tags": "",
+                "email": "rricardod.cliente1@gmail.com",
+                "phone": "+573101111112",
+                "currency": "COP",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid:\/\/shopify\/Customer\/8338384716020",
+                "default_address": {
+                    "id": 9658295484660,
+                    "customer_id": 8338384716020,
+                    "first_name": "Cliente 1",
+                    "last_name": "Cliente 1",
+                    "company": "",
+                    "address1": "Carrera 66 # 81-69",
+                    "address2": "Casa",
+                    "city": "Barranquilla",
+                    "province": "Atlántico",
+                    "country": "Colombia",
+                    "zip": "080001",
+                    "phone": null,
+                    "name": "Cliente 1 Cliente 1",
+                    "province_code": "ATL",
+                    "country_code": "CO",
+                    "country_name": "Colombia",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286252208372,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286252208372",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SALSA BBQ DEL CAMPO  * 1KL *10 UND",
+                    "price": "55830.83",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "55830.83",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "55830.83",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100474581236,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "122",
+                    "taxable": false,
+                    "title": "SALSA BBQ DEL CAMPO  * 1KL *10 UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733119160564,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286252241140,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286252241140",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SALTINAS MITITACO 106 GR * 48 UND",
+                    "price": "41259.63",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "41259.63",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "41259.63",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100478939380,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "250",
+                    "taxable": false,
+                    "title": "SALTINAS MITITACO 106 GR * 48 UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733152354548,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286252273908,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286252273908",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "price": "30252.10",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100479758580,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "410",
+                    "taxable": false,
+                    "title": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733155729652,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": {
+                "id": 37873647860,
+                "created_at": "2025-08-01T15:37:33-04:00",
+                "due_in_days": 7,
+                "payment_schedules": [
+                    {
+                        "id": 34974105844,
+                        "amount": "127342.56",
+                        "currency": "COP",
+                        "issued_at": "2025-08-01T15:37:18-04:00",
+                        "due_at": "2025-08-08T15:37:18-04:00",
+                        "completed_at": null,
+                        "created_at": "2025-08-01T15:37:33-04:00",
+                        "updated_at": "2025-08-01T15:37:33-04:00"
+                    }
+                ],
+                "payment_terms_name": "Net 7",
+                "payment_terms_type": "net",
+                "updated_at": "2025-08-01T15:37:33-04:00"
+            },
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Cliente 1",
+                "address1": "Carrera 66 #81-138",
+                "phone": "",
+                "city": "Barranquilla",
+                "zip": "080002",
+                "province": "Atlántico",
+                "country": "Colombia",
+                "last_name": "Cliente 1",
+                "address2": "",
+                "company": "",
+                "latitude": 11.0133755,
+                "longitude": -74.8090619,
+                "name": "Cliente 1 Cliente 1",
+                "country_code": "CO",
+                "province_code": "ATL"
+            },
+            "shipping_lines": []
+        },
+        {
+            "id": 6312019099892,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6312019099892",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081682088180,
+            "checkout_token": "f33760a658b584e683ec33fc281e7139",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "HC09VZVLT",
+            "confirmed": true,
+            "contact_email": "rricardod.cliente0@gmail.com",
+            "created_at": "2025-08-01T15:33:40-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "568526.58",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "568526.58",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "en",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "rricardod.cliente0@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "pending",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1004",
+            "note": null,
+            "note_attributes": [],
+            "number": 4,
+            "order_number": 1004,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/55e038c9a45dd6a564d83047ce2639ca\/authenticate?key=4381395f6e6dca6a24ff84ba40ec4a99",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [],
+            "phone": "+573001111111",
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:33:40-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "568526.58",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "55e038c9a45dd6a564d83047ce2639ca",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "568526.58",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "568526.58",
+            "total_price": "568526.58",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:49:06-04:00",
+            "user_id": 99571138804,
+            "billing_address": {
+                "first_name": "Cliente 0",
+                "address1": "",
+                "phone": null,
+                "city": "",
+                "zip": null,
+                "province": null,
+                "country": "Colombia",
+                "last_name": "Cliente 0",
+                "address2": null,
+                "company": null,
+                "latitude": null,
+                "longitude": null,
+                "name": "Cliente 0 Cliente 0",
+                "country_code": "CO",
+                "province_code": null
+            },
+            "customer": {
+                "id": 8338383044852,
+                "created_at": "2025-08-01T15:26:22-04:00",
+                "updated_at": "2025-08-01T15:33:40-04:00",
+                "first_name": "Cliente 0",
+                "last_name": "Cliente 0",
+                "state": "disabled",
+                "note": "",
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null,
+                    "consent_collected_from": "SHOPIFY"
+                },
+                "tags": "",
+                "email": "rricardod.cliente0@gmail.com",
+                "phone": "+573001111111",
+                "currency": "COP",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid:\/\/shopify\/Customer\/8338383044852",
+                "default_address": {
+                    "id": 9658294337780,
+                    "customer_id": 8338383044852,
+                    "first_name": "Cliente 0",
+                    "last_name": "Cliente 0",
+                    "company": "",
+                    "address1": "",
+                    "address2": "",
+                    "city": "",
+                    "province": "",
+                    "country": "Colombia",
+                    "zip": "",
+                    "phone": "",
+                    "name": "Cliente 0 Cliente 0",
+                    "province_code": null,
+                    "country_code": "CO",
+                    "country_name": "Colombia",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286240837876,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286240837876",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "MEDELLIN (8 AÑOS) * 375ML * 20UND",
+                    "price": "568526.58",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "568526.58",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "568526.58",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100479430900,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "320",
+                    "taxable": false,
+                    "title": "MEDELLIN (8 AÑOS) * 375ML * 20UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733154877684,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": {
+                "id": 37873352948,
+                "created_at": "2025-08-01T15:33:40-04:00",
+                "due_in_days": null,
+                "payment_schedules": [],
+                "payment_terms_name": "Due on fulfillment",
+                "payment_terms_type": "fulfillment",
+                "updated_at": "2025-08-01T15:33:40-04:00"
+            },
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Cliente 0",
+                "address1": "Carrera 66 # 81-114",
+                "phone": "",
+                "city": "Barranquilla",
+                "zip": "080001",
+                "province": "Atlántico",
+                "country": "Colombia",
+                "last_name": "Cliente 0",
+                "address2": "",
+                "company": "",
+                "latitude": 11.013276,
+                "longitude": -74.808859,
+                "name": "Cliente 0 Cliente 0",
+                "country_code": "CO",
+                "province_code": "ATL"
+            },
+            "shipping_lines": []
+        },
+        {
+            "id": 6312013791476,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6312013791476",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081673109748,
+            "checkout_token": "0d54528a24b65f9748f914f4477525dd",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "YVZHN0ZR6",
+            "confirmed": true,
+            "contact_email": null,
+            "created_at": "2025-08-01T15:29:20-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "568526.58",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "568526.58",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "es",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "",
+            "estimated_taxes": false,
+            "financial_status": "pending",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": 85039022324,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1003",
+            "note": null,
+            "note_attributes": [],
+            "number": 3,
+            "order_number": 1003,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/a790f2677b42e60f62492b1ece96098d\/authenticate?key=3eb8afc59236b76e4291e11289ed2b62",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:29:19-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "568526.58",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "a790f2677b42e60f62492b1ece96098d",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "568526.58",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "568526.58",
+            "total_price": "568526.58",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "568526.58",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:31:05-04:00",
+            "user_id": 99571138804,
+            "billing_address": null,
+            "customer": null,
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286230221044,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286230221044",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "MEDELLIN (8 AÑOS) * 375ML * 20UND",
+                    "price": "568526.58",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "568526.58",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "568526.58",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100479430900,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "320",
+                    "taxable": false,
+                    "title": "MEDELLIN (8 AÑOS) * 375ML * 20UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733154877684,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": {
+                "id": 37873123572,
+                "created_at": "2025-08-01T15:29:20-04:00",
+                "due_in_days": null,
+                "payment_schedules": [],
+                "payment_terms_name": "Due on receipt",
+                "payment_terms_type": "receipt",
+                "updated_at": "2025-08-01T15:29:20-04:00"
+            },
+            "refunds": [],
+            "shipping_address": null,
+            "shipping_lines": []
+        },
+        {
+            "id": 6311986036980,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6311986036980",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081622089972,
+            "checkout_token": "7cb1f94addd8dd34fd58a301bdd6433b",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "GUE8F9UDN",
+            "confirmed": true,
+            "contact_email": null,
+            "created_at": "2025-08-01T15:08:47-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "38764.10",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "38764.10",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "es",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": 85039022324,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1002",
+            "note": null,
+            "note_attributes": [],
+            "number": 2,
+            "order_number": 1002,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/7de2aa9f2fcea412b61870d071086117\/authenticate?key=11ba9bcfb597a4a6c6d4cfd3d05557f4",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:08:46-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "38764.10",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "7de2aa9f2fcea412b61870d071086117",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "38764.10",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "38764.10",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "38764.10",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:08:48-04:00",
+            "user_id": 99571138804,
+            "billing_address": null,
+            "customer": null,
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286174515444,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286174515444",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "ASUNTOL * 100GR",
+                    "price": "5600.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100570132724,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "540",
+                    "taxable": false,
+                    "title": "ASUNTOL * 100GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733513425140,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286174548212,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286174548212",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "price": "30252.10",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "30252.10",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100479758580,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "410",
+                    "taxable": false,
+                    "title": "SUPREMO BARRA VERDE * 100GR * 48UND",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733155729652,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286174580980,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286174580980",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "UVAS PASAS CONI * 200GR",
+                    "price": "2912.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "2912.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "2912.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100475597044,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "140",
+                    "taxable": false,
+                    "title": "UVAS PASAS CONI * 200GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733127975156,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": null,
+            "shipping_lines": []
+        },
+        {
+            "id": 6311984595188,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/6311984595188",
+            "app_id": 1354745,
+            "browser_ip": "190.144.23.14",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": null,
+            "checkout_id": 36081619108084,
+            "checkout_token": "a581a375d64f2d31f2d60fd6e4c92f47",
+            "client_details": {
+                "accept_language": null,
+                "browser_height": null,
+                "browser_ip": "190.144.23.14",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Safari\/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "0MX6M4I60",
+            "confirmed": true,
+            "contact_email": null,
+            "created_at": "2025-08-01T15:07:42-04:00",
+            "currency": "COP",
+            "current_subtotal_price": "10600.00",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "10600.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                }
+            },
+            "current_total_tax": "0.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "customer_locale": "es",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": null,
+            "landing_site_ref": null,
+            "location_id": 85039022324,
+            "merchant_business_entity_id": "17128030452",
+            "merchant_of_record_app_id": null,
+            "name": "#1001",
+            "note": null,
+            "note_attributes": [],
+            "number": 1,
+            "order_number": 1001,
+            "order_status_url": "https:\/\/prueba-mayasis-interno.myshopify.com\/77084393716\/orders\/e9c9b88dd6d716e1733e0ace7d655dd4\/authenticate?key=07162896dad740c5d3334914ef732392",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "COP",
+            "processed_at": "2025-08-01T15:07:42-04:00",
+            "reference": null,
+            "referring_site": null,
+            "source_identifier": null,
+            "source_name": "shopify_draft_order",
+            "source_url": null,
+            "subtotal_price": "10600.00",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [],
+            "taxes_included": false,
+            "test": false,
+            "token": "e9c9b88dd6d716e1733e0ace7d655dd4",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_line_items_price": "10600.00",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "10600.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "10600.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tax": "0.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "COP"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 0,
+            "updated_at": "2025-08-01T15:07:43-04:00",
+            "user_id": 99571138804,
+            "billing_address": null,
+            "customer": null,
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 15286171205876,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286171205876",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "AGUILA ROJA  * 250GR",
+                    "price": "5000.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "5000.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "5000.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100478578932,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "173",
+                    "taxable": false,
+                    "title": "AGUILA ROJA  * 250GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733151731956,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 15286171238644,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/15286171238644",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "ASUNTOL * 100GR",
+                    "price": "5600.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "5600.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 9100570132724,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "540",
+                    "taxable": false,
+                    "title": "ASUNTOL * 100GR",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "COP"
+                        }
+                    },
+                    "variant_id": 46733513425140,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Mayasis-Prueba",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "COP"
+                                }
+                            },
+                            "rate": 0.19,
+                            "title": "VAT"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": null,
+            "shipping_lines": []
+        }
+    ]
+}
