@@ -1,59 +1,264 @@
-{
-  "id": 9099430723828,
-  "title": "Producto Prueba 3",
-  "body_html": "<p>Producto Prueba 3</p>",
-  "vendor": "prueba_mayasis_interno",
-  "product_type": "",
-  "created_at": "2025-07-30T14:38:52-04:00",
-  "handle": "producto-prueba-3",
-  "updated_at": "2025-07-30T18:04:31-04:00",
-  "published_at": "2025-07-30T14:38:55-04:00",
-  "template_suffix": "",
-  "published_scope": "global",
-  "tags": "",
-  "status": "active",
-  "admin_graphql_api_id": "gid://shopify/Product/9099430723828",
-  "variants": [
-    {
-      "id": 46727105282292,
-      "product_id": 9099430723828,
-      "title": "Default Title",
-      "price": "3.00",
+[
+  {
+    "id": 9099924472052,
+    "title": "AMARILLO SIN AZUCAR 750ML",
+    "body_html": "AMARILLO SIN AZUCAR 750ML",
+    "vendor": "Mayasis-Prueba",
+    "product_type": "General",
+    "created_at": "2025-07-31T13:30:57-04:00",
+    "handle": "amarillo-sin-azucar-750ml",
+    "updated_at": "2025-08-01T05:26:20-04:00",
+    "published_at": "2025-07-31T13:30:57-04:00",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "",
+    "status": "active",
+    "admin_graphql_api_id": "gid://shopify/Product/9099924472052",
+    "variants": [
+      {
+        "id": 46730274308340,
+        "product_id": 9099924472052,
+        "title": "Default Title",
+        "price": "55500.00",
+        "position": 1,
+        "inventory_policy": "deny",
+        "compare_at_price": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-31T13:30:57-04:00",
+        "updated_at": "2025-07-31T19:37:06-04:00",
+        "taxable": true,
+        "barcode": null,
+        "fulfillment_service": "manual",
+        "grams": 0,
+        "inventory_management": "shopify",
+        "requires_shipping": true,
+        "sku": "34",
+        "weight": 0,
+        "weight_unit": "kg",
+        "inventory_item_id": 48832758644980,
+        "inventory_quantity": 50,
+        "old_inventory_quantity": 50,
+        "admin_graphql_api_id": "gid://shopify/ProductVariant/46730274308340",
+        "image_id": null
+      }
+    ],
+    "options": [
+      {
+        "id": 11851800150260,
+        "product_id": 9099924472052,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 48185160990964,
+        "alt": null,
+        "position": 1,
+        "product_id": 9099924472052,
+        "created_at": "2025-07-31T17:25:54-04:00",
+        "updated_at": "2025-07-31T17:26:14-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/48185160990964",
+        "width": 2755,
+        "height": 2757,
+        "src": "https://cdn.shopify.com/s/files/1/0770/8439/3716/files/SGCsoftware-08.png?v=1753997156",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 48185160990964,
+      "alt": null,
       "position": 1,
-      "inventory_policy": "deny",
-      "compare_at_price": null,
-      "option1": "Default Title",
-      "option2": null,
-      "option3": null,
-      "created_at": "2025-07-30T14:38:52-04:00",
-      "updated_at": "2025-07-30T18:04:31-04:00",
-      "taxable": true,
-      "barcode": "",
-      "fulfillment_service": "manual",
-      "grams": 0,
-      "inventory_management": "shopify",
-      "requires_shipping": true,
-      "sku": "111111",
-      "weight": 0,
-      "weight_unit": "kg",
-      "inventory_item_id": 48829579886836,
-      "inventory_quantity": 0,
-      "old_inventory_quantity": 0,
-      "admin_graphql_api_id": "gid://shopify/ProductVariant/46727105282292",
-      "image_id": null
+      "product_id": 9099924472052,
+      "created_at": "2025-07-31T17:25:54-04:00",
+      "updated_at": "2025-07-31T17:26:14-04:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/48185160990964",
+      "width": 2755,
+      "height": 2757,
+      "src": "https://cdn.shopify.com/s/files/1/0770/8439/3716/files/SGCsoftware-08.png?v=1753997156",
+      "variant_ids": []
     }
-  ],
-  "options": [
-    {
-      "id": 11851094229236,
-      "product_id": 9099430723828,
-      "name": "Title",
-      "position": 1,
-      "values": [
-        "Default Title"
-      ]
-    }
-  ],
-  "images": [],
-  "image": null
-}
+  },
+  {
+    "id": 9099430461684,
+    "title": "Producto Prueba 1",
+    "body_html": "<p>Producto Prueba 1</p>",
+    "vendor": "prueba_mayasis_interno",
+    "product_type": "",
+    "created_at": "2025-07-30T14:37:48-04:00",
+    "handle": "producto-prueba-1",
+    "updated_at": "2025-07-30T20:10:07-04:00",
+    "published_at": "2025-07-30T14:37:51-04:00",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "",
+    "status": "active",
+    "admin_graphql_api_id": "gid://shopify/Product/9099430461684",
+    "variants": [
+      {
+        "id": 46727104528628,
+        "product_id": 9099430461684,
+        "title": "Default Title",
+        "price": "1.00",
+        "position": 1,
+        "inventory_policy": "deny",
+        "compare_at_price": "1.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-30T14:37:48-04:00",
+        "updated_at": "2025-07-30T14:37:48-04:00",
+        "taxable": true,
+        "barcode": "",
+        "fulfillment_service": "manual",
+        "grams": 0,
+        "inventory_management": "shopify",
+        "requires_shipping": true,
+        "sku": null,
+        "weight": 0,
+        "weight_unit": "kg",
+        "inventory_item_id": 48829579133172,
+        "inventory_quantity": 0,
+        "old_inventory_quantity": 0,
+        "admin_graphql_api_id": "gid://shopify/ProductVariant/46727104528628",
+        "image_id": null
+      }
+    ],
+    "options": [
+      {
+        "id": 11851093868788,
+        "product_id": 9099430461684,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "image": null
+  },
+  {
+    "id": 9099430625524,
+    "title": "Producto Prueba 2",
+    "body_html": "<p>Producto Prueba 2</p>",
+    "vendor": "prueba_mayasis_interno",
+    "product_type": "",
+    "created_at": "2025-07-30T14:38:17-04:00",
+    "handle": "producto-prueba-2",
+    "updated_at": "2025-07-30T14:38:20-04:00",
+    "published_at": "2025-07-30T14:38:20-04:00",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "",
+    "status": "active",
+    "admin_graphql_api_id": "gid://shopify/Product/9099430625524",
+    "variants": [
+      {
+        "id": 46727105052916,
+        "product_id": 9099430625524,
+        "title": "Default Title",
+        "price": "2.00",
+        "position": 1,
+        "inventory_policy": "deny",
+        "compare_at_price": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-30T14:38:17-04:00",
+        "updated_at": "2025-07-30T14:38:17-04:00",
+        "taxable": true,
+        "barcode": "",
+        "fulfillment_service": "manual",
+        "grams": 0,
+        "inventory_management": "shopify",
+        "requires_shipping": true,
+        "sku": null,
+        "weight": 0,
+        "weight_unit": "kg",
+        "inventory_item_id": 48829579657460,
+        "inventory_quantity": 0,
+        "old_inventory_quantity": 0,
+        "admin_graphql_api_id": "gid://shopify/ProductVariant/46727105052916",
+        "image_id": null
+      }
+    ],
+    "options": [
+      {
+        "id": 11851094098164,
+        "product_id": 9099430625524,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "image": null
+  },
+  {
+    "id": 9099430723828,
+    "title": "Producto Prueba 3",
+    "body_html": "<p>Producto Prueba 3</p>",
+    "vendor": "prueba_mayasis_interno",
+    "product_type": "",
+    "created_at": "2025-07-30T14:38:52-04:00",
+    "handle": "producto-prueba-3",
+    "updated_at": "2025-07-30T18:04:31-04:00",
+    "published_at": "2025-07-30T14:38:55-04:00",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "",
+    "status": "active",
+    "admin_graphql_api_id": "gid://shopify/Product/9099430723828",
+    "variants": [
+      {
+        "id": 46727105282292,
+        "product_id": 9099430723828,
+        "title": "Default Title",
+        "price": "3.00",
+        "position": 1,
+        "inventory_policy": "deny",
+        "compare_at_price": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-30T14:38:52-04:00",
+        "updated_at": "2025-07-30T18:04:31-04:00",
+        "taxable": true,
+        "barcode": "",
+        "fulfillment_service": "manual",
+        "grams": 0,
+        "inventory_management": "shopify",
+        "requires_shipping": true,
+        "sku": "111111",
+        "weight": 0,
+        "weight_unit": "kg",
+        "inventory_item_id": 48829579886836,
+        "inventory_quantity": 0,
+        "old_inventory_quantity": 0,
+        "admin_graphql_api_id": "gid://shopify/ProductVariant/46727105282292",
+        "image_id": null
+      }
+    ],
+    "options": [
+      {
+        "id": 11851094229236,
+        "product_id": 9099430723828,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "image": null
+  }
+]

@@ -17,20 +17,20 @@ async function testShopifyConnection() {
     );
     const products = response.data.products;
     products.forEach(product => {
-      console.log('---');
-      console.log('ID producto:', product.id);
-      console.log('Título:', product.title);
-      console.log('Descripción:', product.body_html);
-      console.log('Vendor:', product.vendor);
+      //console.log('---');
+      //console.log('ID producto:', product.id);
+      //console.log('Título:', product.title);
+      //console.log('Descripción:', product.body_html);
+      //console.log('Vendor:', product.vendor);
 
       console.log(JSON.stringify(product, null, 2));
 
-      product.variants.forEach(variant => {
-        console.log('  ID variante:', variant.id);
-        console.log('  Precio:', variant.price);
-        console.log('  SKU:', variant.sku);
-        console.log('  Inventario:', variant.inventory_quantity);
-      });
+      //product.variants.forEach(variant => {
+        //console.log('  ID variante:', variant.id);
+        //console.log('  Precio:', variant.price);
+        //console.log('  SKU:', variant.sku);
+        //console.log('  Inventario:', variant.inventory_quantity);
+      //});
     });
   } catch (err) {
     console.error('Error al conectar con Shopify:', err.response ? err.response.data : err.message);
