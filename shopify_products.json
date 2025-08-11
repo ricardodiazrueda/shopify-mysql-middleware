@@ -1,0 +1,325 @@
+{
+    "products": [
+        {
+            "id": 9965154763033,
+            "title": "1\/2 CARTON HUEVOS 15 UNDS",
+            "body_html": "",
+            "vendor": "PET SHOP LA FAVORITA",
+            "product_type": "",
+            "created_at": "2025-07-01T17:46:09-05:00",
+            "handle": "1-2-carton-huevos-15-unds",
+            "updated_at": "2025-07-04T07:18:43-05:00",
+            "published_at": null,
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "",
+            "status": "draft",
+            "admin_graphql_api_id": "gid:\/\/shopify\/Product\/9965154763033",
+            "variants": [
+                {
+                    "id": 50985256550681,
+                    "product_id": 9965154763033,
+                    "title": "Default Title",
+                    "price": "0.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-07-01T17:46:09-05:00",
+                    "updated_at": "2025-07-03T15:45:02-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0.0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52956742582553,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/50985256550681",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 12523998740761,
+                    "product_id": 9965154763033,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 9886267834649,
+            "title": "ABSORBIPETS EN POLVO-  FCO 250GR",
+            "body_html": "\u003cp data-start=\"252\" data-end=\"628\"\u003e\u003cstrong data-start=\"284\" data-end=\"308\"\u003e\u003cem\u003eAbsorbiPets\u003c\/em\u003e en Polvo\u003c\/strong\u003e es un absorbente instantáneo diseñado para neutralizar y facilitar la limpieza de orina, vómito, diarrea o cualquier tipo de derrame causado por tu mascota. Gracias a su fórmula super absorbente y de agradable aroma, elimina los malos olores y ayuda a prevenir nuevas marcaciones, dejando los espacios limpios y frescos.\u003c\/p\u003e\n\u003ch3 data-start=\"630\" data-end=\"856\"\u003eIngredientes\u003c\/h3\u003e\n\u003cp data-start=\"630\" data-end=\"856\"\u003ePolvo absorbente de origen mineral con fragancia agradable, componentes desodorizantes y neutralizadores de olores, seguros para su uso en ambientes domésticos donde hay perros y gatos.\u003c\/p\u003e\n\u003ch3 data-start=\"858\" data-end=\"884\"\u003eBeneficios\u003c\/h3\u003e\n\u003cul data-start=\"886\" data-end=\"1236\"\u003e\n\u003cli data-start=\"886\" data-end=\"944\"\u003e\n\u003cp data-start=\"888\" data-end=\"944\"\u003e\u003cstrong data-start=\"888\" data-end=\"908\"\u003e- Super absorbente:\u003c\/strong\u003e actúa rápidamente sobre líquidos.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"945\" data-end=\"987\"\u003e\n\u003cp data-start=\"947\" data-end=\"987\"\u003e\u003cstrong data-start=\"947\" data-end=\"985\"\u003e- Neutraliza y elimina malos olores.\u003c\/strong\u003e\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"988\" data-end=\"1043\"\u003e\n\u003cp data-start=\"990\" data-end=\"1043\"\u003e\u003cstrong data-start=\"990\" data-end=\"1011\"\u003e- Fácil de recoger:\u003c\/strong\u003e se remueve con escoba o paño.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1044\" data-end=\"1111\"\u003e\n\u003cp data-start=\"1046\" data-end=\"1111\"\u003e\u003cstrong data-start=\"1046\" data-end=\"1097\"\u003e- Aroma agradable que evita conductas repetitivas\u003c\/strong\u003e de marcaje.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1112\" data-end=\"1191\"\u003e\n\u003cp data-start=\"1114\" data-end=\"1191\"\u003e\u003cstrong data-start=\"1114\" data-end=\"1189\"\u003e- Seguro para usar en pisos, tapetes, areneras, jaulas y transportadoras.\u003c\/strong\u003e\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1192\" data-end=\"1236\"\u003e\n\u003cp data-start=\"1194\" data-end=\"1236\"\u003e\u003cstrong data-start=\"1194\" data-end=\"1236\"\u003e- Ideal para hogares con perros y gatos.\u003c\/strong\u003e\u003c\/p\u003e\n\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp data-start=\"1238\" data-end=\"1254\"\u003e\u003cstrong data-start=\"1238\" data-end=\"1254\"\u003eModo de uso:\u003c\/strong\u003e\u003c\/p\u003e\n\u003col data-start=\"1256\" data-end=\"1528\"\u003e\n\u003cli data-start=\"1256\" data-end=\"1341\"\u003e\n\u003cp data-start=\"1259\" data-end=\"1341\"\u003e\u003cstrong\u003e1. \u003c\/strong\u003eEspolvorea una cantidad suficiente de \u003cstrong data-start=\"1297\" data-end=\"1321\"\u003eAbsorbiPets en Polvo\u003c\/strong\u003e sobre el derrame.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1342\" data-end=\"1412\"\u003e\n\u003cp data-start=\"1345\" data-end=\"1412\"\u003e\u003cstrong\u003e2. \u003c\/strong\u003eEspera unos segundos hasta que el producto absorba completamente.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1413\" data-end=\"1463\"\u003e\n\u003cp data-start=\"1416\" data-end=\"1463\"\u003e\u003cstrong\u003e3. \u003c\/strong\u003eRecoge el polvo con escoba, recogedor o paño.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1464\" data-end=\"1528\"\u003e\n\u003cp data-start=\"1467\" data-end=\"1528\"\u003e\u003cstrong\u003e4. \u003c\/strong\u003ePuedes limpiar la superficie con un paño húmedo si lo deseas.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003ch3 data-start=\"1599\" data-end=\"1621\"\u003eRecomendaciones\u003c\/h3\u003e\n\u003cul data-start=\"1622\" data-end=\"1738\"\u003e\n\u003cli data-start=\"1622\" data-end=\"1660\"\u003e\n\u003cp data-start=\"1624\" data-end=\"1660\"\u003e\u003cstrong\u003e- \u003c\/strong\u003eGuardar en un lugar fresco y seco.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1661\" data-end=\"1712\"\u003e\n\u003cp data-start=\"1663\" data-end=\"1712\"\u003e\u003cstrong\u003e- \u003c\/strong\u003eMantener fuera del alcance de niños y mascotas.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli data-start=\"1713\" data-end=\"1738\"\u003e\n\u003cp data-start=\"1715\" data-end=\"1738\"\u003e\u003cstrong\u003e- \u003c\/strong\u003eUso externo únicamente.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003c\/ul\u003e",
+            "vendor": "LABORATORIOS NATURAL FRESHLY",
+            "product_type": "",
+            "created_at": "2025-03-19T10:55:12-05:00",
+            "handle": "absorbipets-en-polvo-fco-250gr",
+            "updated_at": "2025-08-05T15:37:30-05:00",
+            "published_at": "2025-03-19T10:55:12-05:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "Aseo, Belleza, Gato, Perro",
+            "status": "active",
+            "admin_graphql_api_id": "gid:\/\/shopify\/Product\/9886267834649",
+            "variants": [
+                {
+                    "id": 50559676383513,
+                    "product_id": 9886267834649,
+                    "title": "Default Title",
+                    "price": "31500.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-19T10:55:13-05:00",
+                    "updated_at": "2025-07-23T11:41:02-05:00",
+                    "taxable": true,
+                    "barcode": "7707772810884",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "3877",
+                    "weight": 0.0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52533191409945,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/50559676383513",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 12423130546457,
+                    "product_id": 9886267834649,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 49111364075801,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 9886267834649,
+                    "created_at": "2025-03-19T11:09:59-05:00",
+                    "updated_at": "2025-08-05T15:37:30-05:00",
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/49111364075801",
+                    "width": 1000,
+                    "height": 1000,
+                    "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0919\/0509\/8009\/files\/ABSORBIPETS-FCO-X-250-GR-absrobente-en-polvo-para-orines-de-perros-doctorpet-1.jpg?v=1754426250",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 49111364075801,
+                "alt": null,
+                "position": 1,
+                "product_id": 9886267834649,
+                "created_at": "2025-03-19T11:09:59-05:00",
+                "updated_at": "2025-08-05T15:37:30-05:00",
+                "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/49111364075801",
+                "width": 1000,
+                "height": 1000,
+                "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0919\/0509\/8009\/files\/ABSORBIPETS-FCO-X-250-GR-absrobente-en-polvo-para-orines-de-perros-doctorpet-1.jpg?v=1754426250",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 9965154795801,
+            "title": "ACCESORIO CULUMPIO",
+            "body_html": "",
+            "vendor": "PET SHOP LA FAVORITA",
+            "product_type": "",
+            "created_at": "2025-07-01T17:46:11-05:00",
+            "handle": "accesorio-culumpio",
+            "updated_at": "2025-07-04T11:01:45-05:00",
+            "published_at": null,
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "",
+            "status": "draft",
+            "admin_graphql_api_id": "gid:\/\/shopify\/Product\/9965154795801",
+            "variants": [
+                {
+                    "id": 50985256583449,
+                    "product_id": 9965154795801,
+                    "title": "Default Title",
+                    "price": "0.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-07-01T17:46:11-05:00",
+                    "updated_at": "2025-07-03T15:45:01-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0.0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52956742615321,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/50985256583449",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 12523998773529,
+                    "product_id": 9965154795801,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 9965154861337,
+            "title": "ACCESORIO PALITOS",
+            "body_html": "",
+            "vendor": "PET SHOP LA FAVORITA",
+            "product_type": "",
+            "created_at": "2025-07-01T17:46:11-05:00",
+            "handle": "accesorio-palitos",
+            "updated_at": "2025-07-04T07:54:30-05:00",
+            "published_at": null,
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "",
+            "status": "draft",
+            "admin_graphql_api_id": "gid:\/\/shopify\/Product\/9965154861337",
+            "variants": [
+                {
+                    "id": 50985256616217,
+                    "product_id": 9965154861337,
+                    "title": "Default Title",
+                    "price": "0.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-07-01T17:46:11-05:00",
+                    "updated_at": "2025-07-03T15:45:01-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0.0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52956742680857,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/50985256616217",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 12523998839065,
+                    "product_id": 9965154861337,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 9965154926873,
+            "title": "ACEITE MOTUL 5100 REPUESTO",
+            "body_html": "",
+            "vendor": "PET SHOP LA FAVORITA",
+            "product_type": "",
+            "created_at": "2025-07-01T17:46:12-05:00",
+            "handle": "aceite-motul-5100-repuesto",
+            "updated_at": "2025-07-04T11:46:54-05:00",
+            "published_at": null,
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "",
+            "status": "draft",
+            "admin_graphql_api_id": "gid:\/\/shopify\/Product\/9965154926873",
+            "variants": [
+                {
+                    "id": 50985256747289,
+                    "product_id": 9965154926873,
+                    "title": "Default Title",
+                    "price": "0.00",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-07-01T17:46:12-05:00",
+                    "updated_at": "2025-07-03T15:45:00-05:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": null,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "weight": 0.0,
+                    "weight_unit": "kg",
+                    "inventory_item_id": 52956742779161,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/50985256747289",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 12523998904601,
+                    "product_id": 9965154926873,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        }
+    ]
+}
